@@ -46,7 +46,10 @@ div#padre img{
     order: 3;
     width: 30%;
     height: fit-content;
-	border:5px solid;
+	border:4px solid;
+	padding:10px;
+	background-color:red;
+	border-radius:30%;
 }
 div#padre ul li a:hover{
     background-color: #F3F781;
